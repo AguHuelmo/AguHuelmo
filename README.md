@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AguHuelmo
 - 👀 I’m interested in become a senior develeoper Java
-- 🌱 I’m currently learning Spring Cloud
+- 🌱 I’m currently learning Spring Cloud and Node.js
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me agu293@gmail.com
 
