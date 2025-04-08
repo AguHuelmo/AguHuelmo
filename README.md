@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AguHuelmo
-- 👀 I’m interested in become a senior develeoper Java
-- 🌱 I’m currently learning Go
+- 👀 Senior Java Developer
+- 🌱 I’m currently learning Kafka
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me agu293@gmail.com
 
