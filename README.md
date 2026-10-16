@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AguHuelmo
 - 👀 Senior Java Developer
-- 🌱 I’m currently learning Kafka
-- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me agu293@gmail.com
 
 <!---
